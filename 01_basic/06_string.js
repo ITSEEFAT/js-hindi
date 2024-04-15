@@ -13,4 +13,4 @@ console.log(NSE[3])
 // console.log(NSE.charAT(4)) not working here but working in console
 console.log(NSE.substring(0,3))
 console.log(NSE.slice(1,2))
-console.log(NSE.split('&'))
+console.log(NSE.split('&'));
