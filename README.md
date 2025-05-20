@@ -1,2 +1,2 @@
 # js-hindi
-learn java script through chai and code channel
+I HAVE LEARENED  JAVA SCRIPT FROM HITESH CHOUDHARY ( YOUTUBER)
